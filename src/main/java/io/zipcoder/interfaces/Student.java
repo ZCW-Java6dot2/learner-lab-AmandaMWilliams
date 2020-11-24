@@ -8,7 +8,7 @@ public class Student extends Person implements Learner {
     }
 
     public void learn(Double numberOfHours) {
-        totalStudyTime += numberOfHours;
+        totalStudyTime = totalStudyTime + numberOfHours;
     }
 
     public void setTotalStudyTime(){
