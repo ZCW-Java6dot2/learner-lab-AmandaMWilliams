@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23d770df-db77-49e9-ad38-f605476c6a9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/Learner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/ZipCodeWilmington.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/zipcoder/interfaces/TestInstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/zipcoder/interfaces/TestStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/zipcoder/interfaces/TestZipCodeWilmington.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/zipcoder/interfaces/TestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/zipcoder/interfaces/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/TechConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/ZipCodeWilmington.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/ZipCodeWilmington.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/zipcoder/interfaces/TestZipCodeWilmington.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/zipcoder/interfaces/TestZipCodeWilmington.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,22 +53,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInstructor.inheritanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interfaces-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.zipcoder.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="io.zipcoder.interfaces" />
-      <option name="MAIN_CLASS_NAME" value="io.zipcoder.interfaces.TestInstructor" />
-      <option name="METHOD_NAME" value="inheritanceTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestInstructor.lectureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interfaces-1" />
       <extension name="coverage">
@@ -108,6 +85,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestZipCodeWilmington" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interfaces-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.zipcoder.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.zipcoder.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="io.zipcoder.interfaces.TestZipCodeWilmington" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestZipCodeWilmington.fireStaffTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interfaces-1" />
       <extension name="coverage">
@@ -127,10 +119,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestZipCodeWilmington.fireStaffTest" />
+        <item itemvalue="JUnit.TestZipCodeWilmington" />
         <item itemvalue="JUnit.TestInstructor.lectureTest" />
         <item itemvalue="JUnit.TestInstructor" />
         <item itemvalue="JUnit.TestInstructor.testLecture" />
-        <item itemvalue="JUnit.TestInstructor.inheritanceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -152,32 +144,32 @@
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
     <state x="-1169" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606175600545" />
-    <state width="895" height="245" key="GridCell.Tab.0.bottom" timestamp="1606179691237">
+    <state width="895" height="245" key="GridCell.Tab.0.bottom" timestamp="1606179705779">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
-    <state width="895" height="245" key="GridCell.Tab.0.bottom/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179691237" />
+    <state width="895" height="245" key="GridCell.Tab.0.bottom/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179705779" />
     <state width="874" height="245" key="GridCell.Tab.0.bottom/0.23.1280.777/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606175108511" />
-    <state width="895" height="245" key="GridCell.Tab.0.center" timestamp="1606179691234">
+    <state width="895" height="245" key="GridCell.Tab.0.center" timestamp="1606179705776">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
-    <state width="895" height="245" key="GridCell.Tab.0.center/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179691234" />
+    <state width="895" height="245" key="GridCell.Tab.0.center/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179705776" />
     <state width="874" height="245" key="GridCell.Tab.0.center/0.23.1280.777/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606175108507" />
-    <state width="895" height="245" key="GridCell.Tab.0.left" timestamp="1606179691230">
+    <state width="895" height="245" key="GridCell.Tab.0.left" timestamp="1606179705774">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
-    <state width="895" height="245" key="GridCell.Tab.0.left/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179691230" />
+    <state width="895" height="245" key="GridCell.Tab.0.left/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179705774" />
     <state width="874" height="245" key="GridCell.Tab.0.left/0.23.1280.777/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606175108491" />
-    <state width="895" height="245" key="GridCell.Tab.0.right" timestamp="1606179691235">
+    <state width="895" height="245" key="GridCell.Tab.0.right" timestamp="1606179705777">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
-    <state width="895" height="245" key="GridCell.Tab.0.right/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179691235" />
+    <state width="895" height="245" key="GridCell.Tab.0.right/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179705777" />
     <state width="874" height="245" key="GridCell.Tab.0.right/0.23.1280.777/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606175108510" />
-    <state x="-491" y="0" width="491" height="900" key="dock-window-1" timestamp="1606177166371">
+    <state x="-461" y="0" width="461" height="900" key="dock-window-1" timestamp="1606180676463">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
-    <state x="-491" y="0" width="491" height="900" key="dock-window-1/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606177166371" />
+    <state x="-461" y="0" width="461" height="900" key="dock-window-1/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606180676463" />
     <state x="-655" y="0" width="655" height="900" key="dock-window-1/0.23.1280.710/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606172639409" />
-    <state x="-609" y="0" width="609" height="900" key="dock-window-1/0.23.1280.777/-1440.0.1440.833@-1440.0.1440.833" timestamp="1606175488303" />
+    <state x="-396" y="0" width="396" height="900" key="dock-window-1/0.23.1280.777/-1440.0.1440.833@-1440.0.1440.833" timestamp="1606180253682" />
     <state x="-1416" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606172579075">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>

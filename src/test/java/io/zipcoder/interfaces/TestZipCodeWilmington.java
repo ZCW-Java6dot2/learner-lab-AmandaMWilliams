@@ -8,12 +8,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TestZipCodeWilmington {
-    private TestZipCodeWilmington zipcode;
+    private TestZipCodeWilmington zipCode;
 
     @Before
     public void setup(){
-        ZipCodeWilmington zipcode = new ZipCodeWilmington();
-        zipcode.fireStaff();
+        ZipCodeWilmington zipCode = new ZipCodeWilmington();
+        zipCode.fireStaff();
     }
 
     @Test
@@ -26,4 +26,5 @@ public class TestZipCodeWilmington {
         //then
         Assert.assertEquals(instructorList.size(), 0);
     }
+
 }

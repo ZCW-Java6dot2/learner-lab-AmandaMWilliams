@@ -4,10 +4,9 @@ import java.util.ArrayList;
 
 public class ZipCodeWilmington {
     private static ArrayList<Instructor> instructorList;
-
     private static Instructor instructor;
 
-    public ArrayList<Instructor> getInstructors(){
+    public static ArrayList<Instructor> getInstructors(){
         return instructorList;
     }
 
