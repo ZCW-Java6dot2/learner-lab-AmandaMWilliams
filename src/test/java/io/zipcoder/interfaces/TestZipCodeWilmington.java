@@ -12,8 +12,7 @@ public class TestZipCodeWilmington {
 
     @Before
     public void setup(){
-        ZipCodeWilmington zipCode = new ZipCodeWilmington();
-        zipCode.fireStaff();
+        ZipCodeWilmington.fireStaff();
     }
 
     @Test
@@ -24,7 +23,22 @@ public class TestZipCodeWilmington {
         //when
         zipCodeWilmington.fireStaff();
         //then
-        Assert.assertEquals(instructorList.size(), 0);
+        Assert.assertTrue(ZipCodeWilmington.getInstructors().isEmpty());
+    }
+
+    @Test
+    public void hireStaffTest(){
+        //given
+        ZipCodeWilmington zipCodeWilmington = new ZipCodeWilmington();
+        List<Instructor> instructorList = new ArrayList<Instructor>();
+        String[] instructorNames = {"Amanda", "Leon"};
+        //when
+        for (String instructorName: instructorNames){
+            Instructor instructor = new Instructor(instructorName);
+            ZipCodeWilmington.hire(instructor);
+        }
+        //then
+        Assert.assertEquals(zipCodeWilmington.getInstructors().size(), 2);
     }
 
 }

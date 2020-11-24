@@ -6,7 +6,7 @@ public class TechConnect {
     private static ArrayList<Student> studentList;
     private static Student student;
 
-    public static void recruitStudent(){
+    public static void recruitStudent(Student student){
         studentList.add(student);
     }
 

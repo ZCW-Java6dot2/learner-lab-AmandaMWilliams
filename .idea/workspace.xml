@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23d770df-db77-49e9-ad38-f605476c6a9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/TechConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/zipcoder/interfaces/TestTechConnect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/ZipCodeWilmington.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/ZipCodeWilmington.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/TechConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/interfaces/TechConnect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/io/zipcoder/interfaces/TestZipCodeWilmington.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/zipcoder/interfaces/TestZipCodeWilmington.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,22 +37,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.TestZipCodeWilmington.fireStaffTest">
-    <configuration name="TestInstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interfaces-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.zipcoder.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="io.zipcoder.interfaces" />
-      <option name="MAIN_CLASS_NAME" value="io.zipcoder.interfaces.TestInstructor" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestTechConnect.recruitStudentTest">
     <configuration name="TestInstructor.lectureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interfaces-1" />
       <extension name="coverage">
@@ -69,7 +54,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInstructor.testLecture" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTechConnect.recruitStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interfaces-1" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +63,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="io.zipcoder.interfaces" />
-      <option name="MAIN_CLASS_NAME" value="io.zipcoder.interfaces.TestInstructor" />
-      <option name="METHOD_NAME" value="testLecture" />
+      <option name="MAIN_CLASS_NAME" value="io.zipcoder.interfaces.TestTechConnect" />
+      <option name="METHOD_NAME" value="recruitStudentTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,13 +101,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestZipCodeWilmington.hireStaffTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interfaces-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.zipcoder.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.zipcoder.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="io.zipcoder.interfaces.TestZipCodeWilmington" />
+      <option name="METHOD_NAME" value="hireStaffTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestTechConnect.recruitStudentTest" />
+        <item itemvalue="JUnit.TestZipCodeWilmington.hireStaffTest" />
         <item itemvalue="JUnit.TestZipCodeWilmington.fireStaffTest" />
         <item itemvalue="JUnit.TestZipCodeWilmington" />
         <item itemvalue="JUnit.TestInstructor.lectureTest" />
-        <item itemvalue="JUnit.TestInstructor" />
-        <item itemvalue="JUnit.TestInstructor.testLecture" />
       </list>
     </recent_temporary>
   </component>
@@ -144,25 +145,25 @@
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
     <state x="-1169" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606175600545" />
-    <state width="895" height="245" key="GridCell.Tab.0.bottom" timestamp="1606179705779">
+    <state width="925" height="245" key="GridCell.Tab.0.bottom" timestamp="1606181837694">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
-    <state width="895" height="245" key="GridCell.Tab.0.bottom/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179705779" />
+    <state width="925" height="245" key="GridCell.Tab.0.bottom/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606181837694" />
     <state width="874" height="245" key="GridCell.Tab.0.bottom/0.23.1280.777/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606175108511" />
-    <state width="895" height="245" key="GridCell.Tab.0.center" timestamp="1606179705776">
+    <state width="925" height="245" key="GridCell.Tab.0.center" timestamp="1606181837692">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
-    <state width="895" height="245" key="GridCell.Tab.0.center/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179705776" />
+    <state width="925" height="245" key="GridCell.Tab.0.center/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606181837692" />
     <state width="874" height="245" key="GridCell.Tab.0.center/0.23.1280.777/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606175108507" />
-    <state width="895" height="245" key="GridCell.Tab.0.left" timestamp="1606179705774">
+    <state width="925" height="245" key="GridCell.Tab.0.left" timestamp="1606181837690">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
-    <state width="895" height="245" key="GridCell.Tab.0.left/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179705774" />
+    <state width="925" height="245" key="GridCell.Tab.0.left/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606181837690" />
     <state width="874" height="245" key="GridCell.Tab.0.left/0.23.1280.777/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606175108491" />
-    <state width="895" height="245" key="GridCell.Tab.0.right" timestamp="1606179705777">
+    <state width="925" height="245" key="GridCell.Tab.0.right" timestamp="1606181837693">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
-    <state width="895" height="245" key="GridCell.Tab.0.right/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606179705777" />
+    <state width="925" height="245" key="GridCell.Tab.0.right/0.0.1280.800/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606181837693" />
     <state width="874" height="245" key="GridCell.Tab.0.right/0.23.1280.777/-1440.0.1440.900@-1440.0.1440.900" timestamp="1606175108510" />
     <state x="-461" y="0" width="461" height="900" key="dock-window-1" timestamp="1606180676463">
       <screen x="-1440" y="0" width="1440" height="900" />
